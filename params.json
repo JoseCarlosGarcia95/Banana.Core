@@ -1,0 +1,6 @@
+{
+  "name": "Banana.Core",
+  "tagline": "High level library for managing iOS' devices.",
+  "body": "### What's Banana.Core?\r\nBanana.Core is a high level library for managing iOS device written in C# using libimobiledevice instead of Apple's MobileDevice.dll\r\n\r\n### Code friendly!\r\nMade for beeing easy for developers. Made for beeing sexy for users.\r\n\r\n### Open source!\r\nDo you want to build your own library? Then download the source code and pull here your updates! :)",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
